@@ -1,7 +1,5 @@
 function Home() {
-    return <h1> Porque, assim como o relâmpago sai 
-                do oriente e se mostra até ao ocidente, <br></br>
-                assim será também a vinda do Filho do homem. Mateus 24:27
+    return <h1> Alguém paga a coca
             </h1>
 }
 

@@ -1,5 +1,5 @@
 function Home() {
-  return <h1> Alguém paga a coca</h1>;
+  return <p>This is my "secret lair" of code. Shhh, don't tell anyone. :)</p>;
 }
 
 export default Home; // export padrão do NextJs
